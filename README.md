@@ -23,4 +23,4 @@ Keypad       Keyboard
 +-+-+-+-+    +-+-+-+-+
 ```
 # Screenshots
-![chip 8 logo](screenshots/chip8logo)
+![chip 8 logo](screenshots/chip8logo.png)
